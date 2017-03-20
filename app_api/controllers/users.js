@@ -34,5 +34,6 @@ var data = [
 	]
 
 module.exports.index = function(req, res) {
+	res.setHeader('Content-Type', 'application/json');
   res.json({"users": data});
 }
