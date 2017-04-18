@@ -37,7 +37,7 @@ var data = [
         "y": 51.909404
       },
       "campus": "CIT School of Music",
-      "currentStatus": "Passenger"
+      "currentStatus": "Driver"
 		},
     {
       "id": 5,
@@ -47,7 +47,7 @@ var data = [
         "y": 52.132275
       },
       "campus": "CIT School of Music",
-      "currentStatus": "Passenger"
+      "currentStatus": "Driver"
     },
     {
       "id": 6,
@@ -67,7 +67,7 @@ var data = [
         "y": 51.805610
       },
       "campus": "CIT School of Music",
-      "currentStatus": "Passenger"
+      "currentStatus": "Driver"
     },
     {
       "id": 8,
